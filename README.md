@@ -9,7 +9,7 @@
 
 Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée). Nous souhaitons proposer une solution open-source pour fabriquer des machines de VAC d’urgence.
 
-L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique. Nous sommes collectif citoyen rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes. Le service de réanimation du CHU Grenoble nous aide à valider le prototype.
+L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique. Nous sommes collectif un citoyen rassemblant des acteurs de différents milieux économiques et académiques d'Auvergne Rhône-Alpes. Le service de réanimation du CHU Grenoble nous aide à valider le prototype.
 
 Les premiers prototypes devraient être prêts vers le début de la semaine prochaine, pour des tests sur poumon artificiel débutant immédiatement après. L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars.
 Ce projet est une course contre la montre, et nous avons besoin d’aide.
@@ -23,7 +23,7 @@ Develop an open source VAC with all contributions being under BSD/MIT/CC license
 We hope that if our design is successful, it will be replicated by others.
 
 # Membres du collectif
-Ci dessous les contributeurs au projet (pseudo DISCORD) :
+Ci dessous les contributeurs du projet (pseudo DISCORD) :
 
 ## Experts
 
